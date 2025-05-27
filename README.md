@@ -29,15 +29,6 @@ Hello! I'm **Prathamesh Jadhav**, a passionate and innovative **3rd-year IT unde
 - Features real-time chat, item listing, advanced search, authentication.
 - Fully responsive UI using **Tailwind CSS**.
 
-### 🧭 Tour & Travel Booking Website
-- Connects customers and drivers for tour services.
-- Customers can **create custom tour packages**, drivers can accept/negotiate.
-- Includes a **real-time reservation system**, notifications, and smart tour tracking.
-
-### 🎓 Course Management System
-- Instructors can create/manage courses, subsections, and upload videos.
-- Admin panel with role-based access via JWT.
-- Built using **React**, **Redux Toolkit**, and file uploads support.
 
 ### 💬 Real-time Chat System
 - Built with **Socket.io**, supports private chat and message history.
@@ -62,9 +53,10 @@ Hello! I'm **Prathamesh Jadhav**, a passionate and innovative **3rd-year IT unde
 ## 🚀 Future Goals
 
 - Exploring **System Design** and **DevOps**  
-- Interested in **Ethical Hacking** and **Decentralized App Development** using Beckn Protocol  
+- Interested in **Solving Complex Problem**
 - Aiming to contribute to **Open Source** and expand **DBATU Mart** to multiple campuses  
 
 ---
 
-Feel free to check out my repositories or connect through my portfolio. I'm always excited to collaborate on meaningful and impactful tech projects!
+## Connect With Me Here
+- prathameshj776@gmail.com
