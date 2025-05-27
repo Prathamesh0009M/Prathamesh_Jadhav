@@ -6,9 +6,8 @@ Hello! I'm **Prathamesh Jadhav**, a passionate and innovative **3rd-year IT unde
 
 ## 🔗 Portfolio & Links
 
-- 🔗 **Portfolio Website**: [prathameshjadhav.in](https://prathameshjadhav.in)
-- 🛒 **DBATU Mart (Student Marketplace)**: [dbatumart.in](https://dbatumart.in)
-- 💡 **LeetCode Profile**: [LeetCode - Prathamesh0009M](https://leetcode.com/Prathamesh0009M)
+- 🛒 **Founder of DBATU Mart (Student Marketplace)**: [dbatumart.in](https://nexier.vercel.app/)
+- 💡 **LeetCode Profile**: [LeetCode - Prathamesh0009M](https://leetcode.com/u/prathamesh_jadhav123/)
 - 🧠 **GitHub Profile**: [GitHub - Prathamesh0009M](https://github.com/Prathamesh0009M)
 
 ---
@@ -17,8 +16,8 @@ Hello! I'm **Prathamesh Jadhav**, a passionate and innovative **3rd-year IT unde
 
 **Bachelor of Technology in Information Technology (2022 - Present)**  
 *Dr. Babasaheb Ambedkar Technological University, Lonere*  
-- Actively involved in campus development and software solutions
-- Working on innovative projects to benefit the student community
+- Actively involved in campus development and software solutions  
+- Working on innovative projects to benefit the student community  
 
 ---
 
@@ -27,39 +26,44 @@ Hello! I'm **Prathamesh Jadhav**, a passionate and innovative **3rd-year IT unde
 ### 🛍️ DBATU Mart
 - A platform where DBATU students can **buy and sell used academic items** like calculators, lab coats, and drafters.
 - Built using **MERN stack (MongoDB, Express.js, React, Node.js)**.
-- Supports real-time chat, item listing, advanced search, user authentication, and more.
-- Designed with **Tailwind CSS** and fully responsive UI.
+- Features real-time chat, item listing, advanced search, authentication.
+- Fully responsive UI using **Tailwind CSS**.
 
 ### 🧭 Tour & Travel Booking Website
-- A full-stack platform that connects customers and drivers.
-- Customers can **create custom tour packages**, and drivers can accept or negotiate.
-- Includes a **real-time reservation system**, notifications, and smart tour management.
+- Connects customers and drivers for tour services.
+- Customers can **create custom tour packages**, drivers can accept/negotiate.
+- Includes a **real-time reservation system**, notifications, and smart tour tracking.
 
 ### 🎓 Course Management System
-- Allows instructors to create and manage courses, subsections, and videos.
-- Admin panel and role-based access using JWT.
-- Video uploads and dynamic UI using React + Redux Toolkit.
+- Instructors can create/manage courses, subsections, and upload videos.
+- Admin panel with role-based access via JWT.
+- Built using **React**, **Redux Toolkit**, and file uploads support.
 
 ### 💬 Real-time Chat System
-- Implemented with **Socket.io**, supports private conversations and message history.
-- Integrated into the item marketplace and tour platform.
+- Built with **Socket.io**, supports private chat and message history.
+- Integrated with other platforms like DBATU Mart and tour system.
+
+### 🐦 TweetCrafter
+- AI-powered tweet generator for creators and marketers.
+- Built with **React**, **Tailwind CSS**, and **OpenAI API**.
+- Try it here: [TweetCrafter](https://tweetcrafter.vercel.app)
 
 ---
 
 ## 💻 Languages & Tools
 
-- **Languages**: JavaScript, C++, C, HTML, CSS, Markdown
-- **Frameworks & Libraries**: React, Express.js, Node.js, Tailwind CSS, Bootstrap, Redux, Socket.io
-- **Database**: MongoDB, Mongoose
-- **Tools**: Git, GitHub, Postman, Figma, VS Code
+- **Languages**: JavaScript, C++, C, HTML, CSS, Markdown  
+- **Frameworks & Libraries**: React, Express.js, Node.js, Tailwind CSS, Bootstrap, Redux, Socket.io  
+- **Database**: MongoDB, Mongoose, SQL  
+- **Tools**: Git, GitHub, Postman, Docker, Figma, VS Code  
 
 ---
 
 ## 🚀 Future Goals
 
-- Pursuing a **Minor in Artificial Intelligence**.
-- Interested in **Ethical Hacking** and **Decentralized App Development** using Beckn Protocol.
-- Aiming to contribute to **open-source** and expand **DBATU Mart** across multiple campuses.
+- Exploring **System Design** and **DevOps**  
+- Interested in **Ethical Hacking** and **Decentralized App Development** using Beckn Protocol  
+- Aiming to contribute to **Open Source** and expand **DBATU Mart** to multiple campuses  
 
 ---
 
